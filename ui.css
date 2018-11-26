@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+	font-family: "Arial";
+}
+
+body{
+	height: 100px;
+	width: 200px;
+}
+img{
+	display: block;	
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	clear: both;
+	width: 50%;
+}
